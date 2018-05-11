@@ -1,0 +1,15 @@
+.node{
+  border-radius: 40px;
+  border-color: blue;
+  border-top: 10px;
+  border-style: solid;
+  padding: 50px;
+}
+
+#container{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 0 auto;
+  width: 70%;
+}
